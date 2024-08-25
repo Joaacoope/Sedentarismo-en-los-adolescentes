@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Sedentarismo en la Adolescencia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background: #fff;
+            border-radius: 5px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin: 10px 0;
+            max-height: 300px; /* Ajusta la altura máxima */
+            object-fit: cover; /* Asegura que la imagen se recorte si es necesario */
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>El Sedentarismo en la Adolescencia</h1>
+    </header>
+
+    <section id="que-es">
+        <h2>¿Qué es el sedentarismo?</h2>
+        <p>El sedentarismo se refiere a un estilo de vida con poca o ninguna actividad física. En la adolescencia, esta falta de movimiento puede tener efectos negativos en la salud física y mental.</p>
+        <img src="https://medicinadeportivacancun.com/wp-content/uploads/2021/01/sedentarismo.jpg" alt="Imagen sobre el sedentarismo">
+    </section>
+
+    <section id="por-que-esta-mal">
+        <h2>¿Por qué está mal el sedentarismo?</h2>
+        <p>El sedentarismo en la adolescencia puede llevar a problemas como el sobrepeso, enfermedades cardiovasculares, y problemas emocionales como la depresión y la ansiedad.</p>
+        <img src="https://www.cronica.com.mx/uploads/2024/03/31/6609de63132c7.jpeg" alt="Efectos del sedentarismo">
+    </section>
+
+    <section id="como-evitarlo">
+        <h2>¿Cómo evitar el sedentarismo?</h2>
+        <p>Algunas maneras de evitar el sedentarismo incluyen:</p>
+        <ul>
+            <li>Participar en actividades deportivas.</li>
+            <li>Tomar descansos activos durante el tiempo de estudio.</li>
+            <li>Limitar el tiempo frente a pantallas.</li>
+        </ul>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCqhROZROszYsTc8tPP1lI3dXots8NQu5Ng&s" alt="Ejercicio físico">
+    </section>
+
+    <section id="como-salir">
+        <h2>¿Cómo salir del sedentarismo?</h2>
+        <p>Si ya llevas un estilo de vida sedentario, puedes salir de él gradualmente:</p>
+        <ul>
+            <li>Comienza con actividades ligeras como caminar.</li>
+            <li>Establece metas pequeñas y alcanzables.</li>
+            <li>Busca el apoyo de amigos o familiares.</li>
+        </ul>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0ncHUgE345L9qC7Tu3hbHkTBjSK7IVCWPQ&s" alt="Estableciendo metas">
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Información sobre el sedentarismo en la adolescencia</p>
+    </footer>
+</body>
+</html>
